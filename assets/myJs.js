@@ -1,16 +1,16 @@
 const textConfig = {
-    text1: "He luu Khun!",
+    text1: "He luu!! HAPPY BIRTHDAY!!!",
     text2: "Có câu hỏi này nhớ phải trả lời thật lòng nhaaa .",
-    text3: "Có nhất quyết thực hiện điều ước không? ._.",
-    text4: "Nếu ko trả lời mà thoát ra tức là bị gay nha :v",
-    text5: "Không",
-    text6: "Có <3",
+    text3: "Điều mà khiến bản thân vui lúc này là gì? ._.",
+    text4: "Nếu ko trả lời mà thoát ra thì sẽ bị cô Hằng bắt sao kê nha :v",
+    text5: "Có 100 tỷ, có ny",
+    text6: "Được ông chúc mừng sinh nhật!!",
     text7: "Nhập điều ước đi :vvvv",
     text8: "Gửi ",
-    text9: "Đủ lòng can đảm để công khai bị gay",
-    text10: "oh!!! I knew it ^^!!",
+    text9: "Uớc gì tất cả những bạn bè của tôi đều tuyệt như ông",
+    text10: "oh!!! Thật hả? Đùa thôi. Best wish for you on your birthday!",
     text11:
-      "Còn giờ thì chờ gì nữa mà ko lên fb công khai nào?",
+      "Còn giờ thì chờ gì nữa mà ko lên fb nhận những lời chúc tiếp nào ^^",
     text12: "Okii lunn <3",
   };
   
