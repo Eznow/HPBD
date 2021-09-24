@@ -1,5 +1,5 @@
 const textConfig = {
-    text1: "He luu!! HAPPY BIRTHDAY!!!",
+    text1: "He luu chú cảnh sát!! HAPPY BIRTHDAY!!!",
     text2: "Có câu hỏi này nhớ phải trả lời thật lòng nhaaa .",
     text3: "Điều mà khiến bản thân vui lúc này là gì? ._.",
     text4: "Nếu ko trả lời mà thoát ra thì sẽ bị cô Hằng bắt sao kê nha :v",
