@@ -1,9 +1,9 @@
 const textConfig = {
-    text1: "He luu!! HAPPY BIRTHDAY Nhuy Ler!!!",
+    text1: "He luu!! HAPPY BIRTHDAY!!!",
     text2: "Có câu hỏi này nhớ phải trả lời thật lòng nhaaa .",
     text3: "Điều mà khiến bản thân vui lúc này là gì? ._.",
     text4: "Nếu ko trả lời mà thoát ra thì sẽ bị cô Hằng bắt sao kê nha :v",
-    text5: "Có 1000 tỷ",
+    text5: "Có 1000 tỷ, có ny",
     text6: "Được Đạt chúc mừng sinh nhật!!",
     text7: "Nhập điều ước đi :vvvv",
     text8: "Gửi ",
